@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ChineseCompiler": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
